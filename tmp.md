@@ -75,3 +75,8 @@
 
 [目次へ戻る⤴️](#目次)
 
+[https://4vent.github.io/tmp-public/GenshinCC](https://4vent.github.io/tmp-public/GenshinCC)
+
+[tmp-public/GenshinCC](tmp-public/GenshinCC)
+
+[GenshinCC](GenshinCC)
